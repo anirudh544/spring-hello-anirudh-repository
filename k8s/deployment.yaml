@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: spring-hello
-          image: anirudh544/spring-hello:1
+          image: anirudh544/spring-hello:5
           ports:
             - containerPort: 8000
 ---
